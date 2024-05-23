@@ -5,6 +5,5 @@ seaborn==0.13.1
 nltk==3.8.1
 wordcloud==1.9.3
 scikit-learn==1.2.2
-transformers==4.41.0
 tensorflow==2.16.1
 tf_keras==2.16.0
