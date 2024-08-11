@@ -1,4 +1,4 @@
-# Yelp-NLP--Deep Learning Project
+# Yelp-NLP-Deep Learning Project
 
 Executive Summary
 Understanding customer sentiment and its causes at scale is crucial for building a competitive advantage in business. This project applies deep learning models to predict McDonald’s Yelp review ratings and uses explainable AI techniques to identify key words that influence these ratings.
